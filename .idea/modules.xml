@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-TDDKata-StringCalculator.iml" filepath="$PROJECT_DIR$/Java-TDDKata-StringCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringCalculator/StringCalculator.iml" filepath="$PROJECT_DIR$/StringCalculator/StringCalculator.iml" />
     </modules>
   </component>
 </project>
